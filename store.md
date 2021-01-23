@@ -2,19 +2,19 @@
 
 ## Configuration:
 
-**Item Name:** *string*
+**Item Name:** _string_
 
-**Price:** *number* 
+**Price:** _number_
 
-**Des`cription:** *string*
+**Description:** _string_
 
-**Keywords:** *array of strings*
+**Keywords:** _array of strings_
 
-**In Store Quantity: ** *number*
+**In Store Quantity: ** _number_
 
-**On Sale**: boolean 
+**On Sale**: boolean
 
-## Item Example: 
+## Item Example:
 
 **Item Name:** "Bauer Vapor 2X Grip Senior Hockey Stick"
 
