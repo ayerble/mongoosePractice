@@ -2,17 +2,17 @@
 
 ## Configuration:
 
-**Item Name:** _string_
+**Item Name:** `string`
 
-**Price:** _number_
+**Price:** `number`
 
-**Description:** _string_
+**Description:** `string`
 
-**Keywords:** _array of strings_
+**Keywords:** `array of strings`
 
-**In Store Quantity:** _number_
+**In Store Quantity:** `number`
 
-**On Sale**: boolean
+**On Sale**: `boolean`
 
 ## Item Example:
 
