@@ -10,7 +10,7 @@
 
 **Keywords:** _array of strings_
 
-**In Store Quantity: ** _number_
+**In Store Quantity:** _number_
 
 **On Sale**: boolean
 
