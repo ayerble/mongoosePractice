@@ -1,5 +1,5 @@
 {
-  "name": "mongopractice",
+  "name": "MongoosePractice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayerble/mongoosePractice.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayerble/mongoosePractice/issues"
+  },
+  "homepage": "https://github.com/ayerble/mongoosePractice#readme"
 }
